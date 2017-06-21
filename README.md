@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans,
+
+Prakash here, I like Scriptings and Programms
